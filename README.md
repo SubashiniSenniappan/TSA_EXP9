@@ -129,6 +129,7 @@ print(f'Root Mean Squared Error (RMSE): {rmse:.2f}')
 ![Screenshot 2024-11-11 225021](https://github.com/user-attachments/assets/875a6817-cd62-44c8-8fac-870d6a5429bd)
 ![image](https://github.com/user-attachments/assets/de84ff30-d204-4cb9-85f1-b49b8a9731db)
 
+![Screenshot 2024-11-11 225137](https://github.com/user-attachments/assets/34d671ac-100c-4991-bacc-66799e6bed11)
 
 
 
